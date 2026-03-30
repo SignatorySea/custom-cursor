@@ -1,0 +1,28 @@
+{
+  "id": "custom-cursor",
+  "title": "Custom Cursor",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Sig",
+      "discord": "SignatorySea",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "esmodules": ["scripts/cursor.js"],
+  "description": ""
+}
