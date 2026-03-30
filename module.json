@@ -18,13 +18,6 @@
   "flags": {
     "canUpload": true
   },
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
   "esmodules": ["scripts/cursor.js"],
   "description": "A simple Foundry Vtt Module for customizing your cursor."
 }
