@@ -6,6 +6,8 @@
     "minimum": "13",
     "verified": "13"
   },
+  "manifest": "https://raw.githubusercontent.com/SignatorySea/custom-cursor/releases/latest/module.json",
+  "download": "https://github.com/SignatorySea/custom-cursor/releases/latest/download/module.zip",
   "authors": [
     {
       "name": "Sig",
@@ -24,5 +26,5 @@
     }
   ],
   "esmodules": ["scripts/cursor.js"],
-  "description": ""
+  "description": "A simple Foundry Vtt Module for customizing your cursor."
 }
